@@ -277,13 +277,13 @@ main .form form .item-remove span {
     display: block;
     width: 20px;
     height: 20px;
-    background: url('/icons/delete.svg') no-repeat;
+    background: url('../../icons/delete.svg') no-repeat;
 }
 
 main .file-wrapper .file-description button {
     --form-button-padding: 15px;
 
-    background: url('/icons/delete.svg') no-repeat;
+    background: url('../../icons/delete.svg') no-repeat;
     width: unset;
     border: unset;
     text-align: center;
